@@ -27,4 +27,5 @@ IT 関係の基礎知識も紹介するようになった.
 ```sh
 # https://github.com/jupyter/nbconvert
 $ jupyter nbconvert --to <output format> <input notebook>
+$ jupyter nbconvert --to markdown 2020-.*.ipynb
 ```
